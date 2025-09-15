@@ -73,6 +73,9 @@ Dengan menggunakan Cisco Packet Tracer, siswa dapat **mendesain, mengkonfigurasi
 
 Materi ini dapat dipadukan dengan pendekatan **Project-Based Learning (PjBL)**, di mana siswa tidak hanya memahami teori, tetapi juga membuat proyek mini berupa rancangan jaringan sesuai studi kasus.
 
+Latihan Soal 
+https://wayground.com/join?gc=25939554
+
 ## 📌 Lisensi
 
 Materi ini dibuat untuk keperluan **pembelajaran di SMK** dan boleh digunakan serta dimodifikasi untuk kegiatan belajar-mengajar.
